@@ -79,8 +79,17 @@ main {
     margin-top: 47px;
 }
 /* footer */
-footer {
-    background-color: orange;
+#social-network-icons {
+    text-align:center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    list-style-type: none;
+}
+#social-network-icons i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 /* Media query about tablets and larger*/
 @media screen and (min-width: 768px) {
