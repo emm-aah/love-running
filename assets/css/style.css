@@ -118,6 +118,9 @@ main {
 #benefits {
  margin-top: 20px;
 }
+p {
+    padding-left: 20px;
+}
 
 
 /* footer */
